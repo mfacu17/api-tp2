@@ -1,5 +1,12 @@
 ## TP2-G4
 
+### Integrantes:
+* Andrik, Ivan Daniel.
+* Britos, Miguel Antonio.
+* Montero Cura, Facundo Farid.
+* Soto, Horacio Oscar.
+* Villegas, Cesar Manuel.
+
 
 ### Instalación :computer:	
 
