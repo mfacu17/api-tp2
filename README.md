@@ -12,7 +12,7 @@
 
 1. Primero clonamos el repositorio:
 ```
-git clone github.com/mfacu17/api-tp2
+git clone https://github.com/mfacu17/api-tp2
 ```
 
 2. Ir a la carpeta del proyecto:
